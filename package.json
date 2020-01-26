@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-restapi-poc",
+  "version": "1.0.0",
+  "description": "A NodeJS REST API poc",
+  "main": "bestbuy.ca.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node bestbuy.ca.js",
+    "start-dev": "node bestbuy.ca.js"
+  },
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.18.11"
+  },
+  "devDependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.18.11"
+  }
+}
